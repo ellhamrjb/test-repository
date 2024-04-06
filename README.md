@@ -1,4 +1,2 @@
-# test-repository
-
-this is a second example.
-its just a new test again
+# my very first repo
+this is just for testing
